@@ -54,8 +54,8 @@ export function InfoDialog() {
         </div>
       </dl>
       <footer className="foot-line">
-        <a href="https://x.com/nesdesignco" target="_blank" rel="noreferrer noopener">
-          FORMDRIVE · MADE BY ENES KAYMAZ · X @NESDESIGNCO
+        <a href="https://x.com/shivamkuma75987" target="_blank" rel="noreferrer noopener">
+          FORMDRIVE · MADE BY Shivam Kumar Jha · https://x.com/shivamkuma75987
         </a>
       </footer>
     </dialog>

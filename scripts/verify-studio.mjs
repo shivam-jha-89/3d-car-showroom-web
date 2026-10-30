@@ -77,8 +77,8 @@ const initialState = await evaluate(`(async () => {
     })),
     brandOnly: document.querySelectorAll('.nav-pill button').length === 1
       && document.querySelector('.wordmark')?.textContent.trim() === 'FORMDRIVE'
-      && document.querySelector('.brand-credit')?.textContent.trim() === 'MADE BY ENES KAYMAZ'
-      && document.querySelector('.brand-link')?.getAttribute('href') === 'https://x.com/nesdesignco'
+      && document.querySelector('.brand-credit')?.textContent.trim() === 'MADE BY Shivam Kumar Jha'
+      && document.querySelector('.brand-link')?.getAttribute('href') === 'https://x.com/shivamkuma75987'
       && [...document.querySelectorAll('.brand-link')].some((link) => link.getAttribute('href') === 'https://github.com/nesdesignco')
   };
 })()`);
