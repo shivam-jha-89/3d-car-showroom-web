@@ -1,5 +1,5 @@
 {
-  "name": "formdrive-automotive-studio",
+  "name": "3d-car-showroom-web",
   "version": "1.0.0",
   "description": "An open-source real-time 3D automotive studio built with React Three Fiber and Three.js.",
   "private": true,

@@ -89,7 +89,7 @@ This policy is intentionally optimized for a three-car collection. A much larger
 ### Install and run
 
 ```bash
-git clone https://github.com/nesdesignco/FormDrive.git
+git clone https://github.com/shivam-jha-89/3d-car-showroom-web
 cd FormDrive
 npm install
 npm run dev -- --port 12314
@@ -110,7 +110,7 @@ Every push to `main` is built and published by the included GitHub Pages workflo
 
 **[Open the live FormDrive studio](https://nesdesignco.github.io/FormDrive/)**
 
-The production Vercel deployment is available at **[form-drive.vercel.app](https://form-drive.vercel.app/)**. Vercel can import the repository directly with the Vite preset, `npm run build` as the build command and `dist` as the output directory. Node.js is pinned to the 22.x release line for reproducible clean installs.
+The production Vercel deployment is available at **[form-drive.vercel.app](https://3d-car-showroom-web.vercel.app/)**. Vercel can import the repository directly with the Vite preset, `npm run build` as the build command and `dist` as the output directory. Node.js is pinned to the 22.x release line for reproducible clean installs.
 
 ## Project structure
 
